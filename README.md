@@ -2,6 +2,10 @@
 
 An interactive 3D envelope experience with photo customization capabilities, inspired by [Attio's Offsite](https://offsite.attio.com/).
 
+## 🌐 Live Demo
+
+**[View Live App](https://chauhansheetal.github.io/interactive-envelope/)**
+
 ## Features
 
 ### 🎨 3D Envelope Animation
