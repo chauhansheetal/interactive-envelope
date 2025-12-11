@@ -1,6 +1,6 @@
 # Interactive 3D Envelope
 
-An interactive 3D envelope experience with photo customization capabilities, inspired by [Attio's Offsite](https://offsite.attio.com/).
+An interactive 3D envelope experience with photo customization capabilities.
 
 ## 🌐 Live Demo
 
